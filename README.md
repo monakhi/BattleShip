@@ -1,3 +1,3 @@
 # BattleShip
 
-Solution is a Console Application built using VS 2015
+Solution is a C# Console Application built using VS 2015
